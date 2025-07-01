@@ -3,6 +3,7 @@ This is a simple and interactive To-Do List web application built using HTML, CS
 
 ## ✅ Features
 ✔ Add new tasks
+
 🗑 Delete individual tasks
 ✅ Mark tasks as completed or incomplete
 🧹 Clear all tasks (optional feature)
